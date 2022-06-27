@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @stenioheck
 - 👀 I’m interested in learning
 - 🌱 I’m currently learning programming
-- 💞️ I’m looking to collaborate on students
+- 💞️ I’m looking to collaborate on everything
 - 📫 How to reach me. here or email stenioheck@gmail.com
 
 <!---

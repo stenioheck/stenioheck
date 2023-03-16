@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning
 - 🌱 I’m currently learning programming
 - 💞️ I’m looking to collaborate on everything
-- 📫 How to reach me. stenioheck.com or email stenioheck@gmail.com
+- 📫 How to reach me in https://stenioheck.com or email stenioheck@gmail.com
 
 <!---
 stenioheck/stenioheck is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
